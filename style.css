@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+  
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+  
+body {
+    font-family: "Arial", sans-serif;
+    font-weight: 250;
+    color: rgb(48, 48, 46);
+    line-height: 2;
+    background-color: #f3f3f3;
+}
+
+main {
+    width: 70%;
+    margin-top: 15rem;
+    margin-left: 20rem;
+}
+  
+h1 {
+    font-size: 3rem;
+}
+
+
+h3 {
+    color:rgb(59, 59, 59);
+}
+
+input {
+    border-color: rgb(85, 7, 33);
+    height: 2rem;
+    padding: 1rem;
+}
+  
+button {
+border-radius: none;
+    padding: 0.2rem;
+    margin-left: 1rem;
+}
